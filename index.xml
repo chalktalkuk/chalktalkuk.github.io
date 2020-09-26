@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChalkTalk.UK | ChalkTalk UK Website</title>
@@ -6,15 +6,18 @@
     <description>Recent content on ChalkTalk.UK | ChalkTalk UK Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chalktalk.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chalktalk.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>About</title>
       <link>https://chalktalk.uk/about/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/about/</guid>
-      <description>Question of the day What ever
-Para 2 dfd</description>
+      <description> Who we are What we do </description>
     </item>
     
     <item>
@@ -23,8 +26,8 @@ Para 2 dfd</description>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/posts/question_of_the_day_2020_09_26/</guid>
-      <description>Question of the day What ever
-Para 2 dfd</description>
+      <description>Question of the day What about todays question?
+Para 2 Here you are&amp;hellip;</description>
     </item>
     
   </channel>

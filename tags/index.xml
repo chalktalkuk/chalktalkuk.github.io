@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ChalkTalk.UK | ChalkTalk UK Website</title>
@@ -6,31 +6,35 @@
     <description>Recent content in Tags on ChalkTalk.UK | ChalkTalk UK Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chalktalk.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chalktalk.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>example</title>
-      <link>https://chalktalk.uk/tags/example/</link>
+      <title>mathematics</title>
+      <link>https://chalktalk.uk/tags/mathematics/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chalktalk.uk/tags/example/</guid>
+      <guid>https://chalktalk.uk/tags/mathematics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://chalktalk.uk/tags/hugo/</link>
+      <title>maths</title>
+      <link>https://chalktalk.uk/tags/maths/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chalktalk.uk/tags/hugo/</guid>
+      <guid>https://chalktalk.uk/tags/maths/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>toml</title>
-      <link>https://chalktalk.uk/tags/toml/</link>
+      <title>question</title>
+      <link>https://chalktalk.uk/tags/question/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chalktalk.uk/tags/toml/</guid>
+      <guid>https://chalktalk.uk/tags/question/</guid>
       <description></description>
     </item>
     

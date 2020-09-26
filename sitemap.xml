@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -10,31 +10,19 @@
   <url>
     <loc>https://chalktalk.uk/categories/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chalktalk.uk/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chalktalk.uk/tags/example/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chalktalk.uk/tags/hugo/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chalktalk.uk/categories/math/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chalktalk.uk/post/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -43,18 +31,39 @@
   </url>
   
   <url>
-    <loc>https://chalktalk.uk/categories/question-of-the-day/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chalktalk.uk/tags/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chalktalk.uk/tags/toml/</loc>
+    <loc>https://chalktalk.uk/categories/mathematics/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/tags/mathematics/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/tags/maths/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/tags/question/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/categories/question-of-the-day/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
