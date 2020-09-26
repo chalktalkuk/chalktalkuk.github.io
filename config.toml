@@ -1,0 +1,68 @@
+baseURL = "https://chalktalk.uk/"
+languageCode = "en-gb"
+title = "ChalkTalk.UK | ChalkTalk UK Website"
+theme = "easybook"
+
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+
+paginate = 3                            
+googleAnalytics = "UA-XXXXXXXX-X"      # UA-XXXXXXXX-X
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  url = "/"
+[[menu.main]]
+  name = "About"
+  weight = 30
+  url = "/about"
+
+# site info
+[params]
+  author = "ChalkTalk UK"
+  whoami = ""
+  avatar = "images/avatar.jpg"
+  keywords = ["Chalk","Talk","Maths","Verbal","Reasoning"]
+  description = "ChalkTalk UK Website"
+
+  [params.social]
+    GitHub = "http://github.com/chalktalkuk"
+    Email = "mailto:admin@chalktalk.uk"
+  [params.utterances]       # https://utteranc.es/
+    owner = "Y4er"          # Your GitHub ID
+    repo = "Y4er.com"       # The repo to store comments
+  [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+    clientId = ""           # Your client ID
+    clientSecret = ""       # Your client secret
+  [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+    clientId = ""           # Your client ID
+    clientSecret = ""       # Your client secret
+  # Valine.
+  # You can get your appid and appkey from https://leancloud.cn
+  # more info please open https://valine.js.org
+  [params.valine]
+    enable = false
+    appId = 'appId'
+    appKey = 'appKey'
+    notify = false          # mail notifier , https://github.com/xCss/Valine/wiki
+    verify = false          # Verification code
+    avatar = 'mm' 
+    placeholder = '说点什么吧...'
+    visitor = false
+  
+  changyanAppid = ""        # Changyan app id     
+  changyanAppkey = ""       # Changyan app key
+
+  livereUID = ""            # LiveRe UID             
+
+  googleVerification = ""   # Google Verification   
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  customCSS = []
+  customJS = []
