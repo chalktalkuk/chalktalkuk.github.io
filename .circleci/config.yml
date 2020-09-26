@@ -1,0 +1,15 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: z0li/hugo-builder:latest
+    working_directory: /src
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "f8:94:4a:e8:9e:f2:d5:5f:c7:10:42:35:67:6f:ee:d3"
+      - checkout
+      - run: hugo -v -s ./src -d ../public
+      - run:
+          name: Run htmlproofer
+          command: htmlproofer /public --allow-hash-href --check-html --empty-alt-ignore --disable-external
