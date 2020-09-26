@@ -4,14 +4,14 @@
 {{ if or $prev $next }}
 <ul class="prevnext">
     {{ if $prev }}
-    <li>上一篇：
+    <li> Previous：
         <a href="{{ $prev.Permalink }}">
             {{ title $prev.Title }}
         </a>
     </li>
     {{ end }}
     {{ if $next }}
-    <li>下一篇：
+    <li> Next：
         <a href="{{ $next.Permalink }}">
             {{ title $next.Title }}
         </a>
