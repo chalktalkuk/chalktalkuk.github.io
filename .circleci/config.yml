@@ -1,15 +1,48 @@
 version: 2
 jobs:
   build:
+    filters:
+      branches:
+        only:
+          - development
     docker:
       - image: z0li/hugo-builder:latest
-    working_directory: /src
+    working_directory: cloak
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "f8:94:4a:e8:9e:f2:d5:5f:c7:10:42:35:67:6f:ee:d3"
+            - "f0:61:8e:1e:4f:d0:58:b7:80:41:08:4f:45:88:5e:15"
       - checkout
-      - run: hugo -v -s ./src -d ../public
+      - run: pwd
+      - run: ls -larR
+      - run: hugo -v -s /cloak/src -d /cloak/public
+      - run: ls -larR /cloak/src
       - run:
           name: Run htmlproofer
-          command: htmlproofer /public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+          command: htmlproofer /cloak/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+      - run: git clone https://github.com/chalktalkuk/chalktalkuk.github.io.git --branch master --single-branch master
+      - run: ls -larR
+      - run:
+          name: Run Update
+          command: |
+            cd master
+            git status
+            echo DELETE FILES ==========================================================================
+            rm -rf .  
+            echo COPY FILES ============================================================================
+            cp -rf /cloak/public/* .                                                                    
+            echo GIT STATUS ============================================================================
+            git status                                                                                  
+            echo SET GIT CONFIG ========================================================================
+            git config user.name "ChalkTalkUK"                                                          
+            git config user.email "chalktalkuk@gmail.com"                                               
+            echo GIT ADD . =============================================================================
+            git add .                                                                                   
+            echo GIT STATUS ============================================================================
+            git status                                                                                  
+            echo GIT COMMIT ============================================================================
+            git commit -am "Publish Website [skip ci]"                                                  
+            echo GIT PUSH @=============================================================================
+            git push
+            echo GIT STATUS ============================================================================
+            git status   

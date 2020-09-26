@@ -22,7 +22,7 @@ googleAnalytics = "UA-XXXXXXXX-X"      # UA-XXXXXXXX-X
 [params]
   author = "ChalkTalk UK"
   whoami = ""
-  avatar = "images/avatar.jpg"
+  avatar = "/images/logo.jpg"
   keywords = ["Chalk","Talk","Maths","Verbal","Reasoning"]
   description = "ChalkTalk UK Website"
 
