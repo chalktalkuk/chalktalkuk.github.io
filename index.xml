@@ -6,18 +6,28 @@
     <description>Recent content on ChalkTalk.UK | ChalkTalk UK Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 26 Sep 2020 19:55:38 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chalktalk.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Question_20200927</title>
-      <link>https://chalktalk.uk/post/question_20200927/</link>
-      <pubDate>Sat, 26 Sep 2020 19:55:38 +0100</pubDate>
+      <title>English 28/09/2020</title>
+      <link>https://chalktalk.uk/post/english_20200928/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chalktalk.uk/post/question_20200927/</guid>
-      <description>Hello</description>
+      <guid>https://chalktalk.uk/post/english_20200928/</guid>
+      <description>Question of the day. Match the correct synonyms of following words: e.g. thrilling - exciting.</description>
+    </item>
+    
+    <item>
+      <title>Maths 28/09/2020</title>
+      <link>https://chalktalk.uk/posts/question_of_the_day_2020_09_28/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/posts/question_of_the_day_2020_09_28/</guid>
+      <description>## Question of the day.
+Find the area of pink quadrilateral.</description>
     </item>
     
     <item>
@@ -27,16 +37,6 @@
       
       <guid>https://chalktalk.uk/about/</guid>
       <description> Who we are What we do </description>
-    </item>
-    
-    <item>
-      <title>Question of the day</title>
-      <link>https://chalktalk.uk/posts/question_of_the_day_2020_09_26/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chalktalk.uk/posts/question_of_the_day_2020_09_26/</guid>
-      <description>Question of the day What about todays question?
-Para 2 Here you are&amp;hellip;</description>
     </item>
     
   </channel>
