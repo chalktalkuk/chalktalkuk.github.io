@@ -3,13 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chalktalk.uk/categories/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <loc>https://chalktalk.uk/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chalktalk.uk/</loc>
+    <loc>https://chalktalk.uk/post/english_20200930/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/post/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/categories/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -25,9 +36,8 @@
   </url>
   
   <url>
-    <loc>https://chalktalk.uk/post/</loc>
+    <loc>https://chalktalk.uk/posts/question_of_the_day_2020_09_29/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -37,13 +47,13 @@
   </url>
   
   <url>
-    <loc>https://chalktalk.uk/categories/mathematics/</loc>
+    <loc>https://chalktalk.uk/tags/mathematics/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chalktalk.uk/tags/mathematics/</loc>
+    <loc>https://chalktalk.uk/categories/mathematics/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
