@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on ChalkTalk.UK | ChalkTalk UK Website</title>
+    <link>https://chalktalk.uk/tags/test/</link>
+    <description>Recent content in test on ChalkTalk.UK | ChalkTalk UK Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chalktalk.uk/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mock test 03/10/2020</title>
+      <link>https://chalktalk.uk/posts/mock_test_2020_10_03/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/posts/mock_test_2020_10_03/</guid>
+      <description> Test of the week This test is also available at this link
+Chargement en cours… </description>
+    </item>
+    
+  </channel>
+</rss>
