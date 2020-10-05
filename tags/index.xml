@@ -6,10 +6,37 @@
     <description>Recent content in Tags on ChalkTalk.UK | ChalkTalk UK Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chalktalk.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mathematics</title>
+      <link>https://chalktalk.uk/tags/mathematics/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maths</title>
+      <link>https://chalktalk.uk/tags/maths/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/tags/maths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>question</title>
+      <link>https://chalktalk.uk/tags/question/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/tags/question/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>mock</title>
@@ -53,33 +80,6 @@
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mathematics</title>
-      <link>https://chalktalk.uk/tags/mathematics/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chalktalk.uk/tags/mathematics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maths</title>
-      <link>https://chalktalk.uk/tags/maths/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chalktalk.uk/tags/maths/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>question</title>
-      <link>https://chalktalk.uk/tags/question/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chalktalk.uk/tags/question/</guid>
       <description></description>
     </item>
     
