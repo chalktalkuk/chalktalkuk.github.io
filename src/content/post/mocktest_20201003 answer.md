@@ -28,7 +28,7 @@ tags = ["test", "mocktest", "mock"]
 
 9. 6
 
-10. 'coarese'...... 'rough'
+10. 'coarse'...... 'rough'
 
 11. 'supple'......'flexible'
 
