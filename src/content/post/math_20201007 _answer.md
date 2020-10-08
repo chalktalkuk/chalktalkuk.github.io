@@ -1,5 +1,5 @@
 +++
-title = "Maths_answer 07/10/2020"
+title = "Maths-answer 07/10/2020"
 description = "Question of the day_Answer 07 OCT 2020"
 date = "2020-10-08"
 url = "/posts/maths_question_of_the_day_2020_10_07"
