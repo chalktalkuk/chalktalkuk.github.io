@@ -4,7 +4,7 @@ description = "Question of the day_Answer 07 OCT 2020"
 date = "2020-10-08"
 url = "/posts/maths_question_of_the_day_2020_10_07"
 categories = [ "question of the day", "mathematics" ]
-tags = ["question", "mathematics", "maths"]
+tags = ["question", "mathematics", "maths-answer"]
 +++
 
 ## Question of the day_answer.
