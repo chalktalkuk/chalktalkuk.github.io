@@ -6,7 +6,7 @@
     <description>Recent content in Tags on ChalkTalk.UK | ChalkTalk UK Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chalktalk.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>eng</title>
       <link>https://chalktalk.uk/tags/eng/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/tags/eng/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>english</title>
       <link>https://chalktalk.uk/tags/english/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/tags/english/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>mathematics</title>
       <link>https://chalktalk.uk/tags/mathematics/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/tags/mathematics/</guid>
       <description></description>
@@ -41,18 +41,27 @@
     <item>
       <title>maths</title>
       <link>https://chalktalk.uk/tags/maths/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/tags/maths/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>maths-answer</title>
-      <link>https://chalktalk.uk/tags/maths-answer/</link>
+      <title>question</title>
+      <link>https://chalktalk.uk/tags/question/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/tags/question/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maths-answers</title>
+      <link>https://chalktalk.uk/tags/maths-answers/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chalktalk.uk/tags/maths-answer/</guid>
+      <guid>https://chalktalk.uk/tags/maths-answers/</guid>
       <description></description>
     </item>
     
@@ -71,15 +80,6 @@
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/tags/mocktest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>question</title>
-      <link>https://chalktalk.uk/tags/question/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chalktalk.uk/tags/question/</guid>
       <description></description>
     </item>
     
