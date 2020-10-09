@@ -1,5 +1,5 @@
 +++
-title = "English-Answer 07/10/2020"
+title = "English-Answers 07/10/2020"
 date = 2020-10-08 
 url = "/posts/english_question_of_the_day_2020_10_07"
 categories = [ "question of the day", "english" ]
@@ -7,7 +7,7 @@ tags = ["question", "english", "eng"]
 +++
 
 
-## Question of the day_answer.
+## Question of the day_answers.
 # Adjective to Adverb
 
 **Match your answers, adjective to adverb.** 

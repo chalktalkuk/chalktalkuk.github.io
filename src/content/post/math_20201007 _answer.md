@@ -1,16 +1,16 @@
 +++
-title = "Maths-answer 07/10/2020"
-description = "Question of the day_Answer 07 OCT 2020"
+title = "Maths-answers 07/10/2020"
+description = "Question of the day_answers 07 OCT 2020"
 date = "2020-10-08"
 url = "/posts/maths_question_of_the_day_2020_10_07"
 categories = [ "question of the day", "mathematics" ]
-tags = ["question", "mathematics", "maths-answer"]
+tags = ["question", "mathematics", "maths-answers"]
 +++
 
-## Question of the day_answer.
+## Question of the day_answerss.
 # Average
  
-**Match your answer.**
+**Match your answers.**
 
  The mode, median and mean of following:
 
