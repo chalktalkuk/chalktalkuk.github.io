@@ -1,8 +1,8 @@
 +++
 title = "Maths-Answer 08/10/2020"
-description = "Question of the day 08 OCT 2020"
+description = "Question of the day 09 OCT 2020"
 date = "2020-10-09"
-url = "/posts/maths_question_of_the_day_2020_10_08"
+url = "/posts/maths_question_of_the_day_2020_10_09"
 categories = [ "question of the day", "mathematics" ]
 tags = ["question", "mathematics", "maths"]
 +++
@@ -26,7 +26,7 @@ tags = ["question", "mathematics", "maths"]
  
  b) 25, 16, 43, 28, 32, 17. Ans: 27
  
- c) 4, -5, 0, -2, 1, -3. Ans: -1
+ c) 4, -5, 0, -2, 1, -3. Ans: 9
  
  
 
