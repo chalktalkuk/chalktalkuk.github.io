@@ -1,38 +1,44 @@
 +++
-title = "Maths-Answer 08/10/2020"
-description = "Question of the day 09 OCT 2020"
-date = "2020-10-09"
-url = "/posts/maths_question_of_the_day_2020_10_09"
+title = "Maths-answers 08/10/2020"
+description = "Question of the day_answers 08 OCT 2020"
+date = "2020-10-08"
+url = "/posts/maths_question_of_the_day_2020_10_08"
 categories = [ "question of the day", "mathematics" ]
-tags = ["question", "mathematics", "maths"]
+tags = ["question", "mathematics", "maths-answers"]
 +++
 
-## Question of the day_answers.
-# Range
+## Question of the day_answers.7-10-2020
+# Average
  
-**Today our topic is range, answers are here.** 
+**Match your answers.**
 
-1. The range of a set of data is 9. The lowest value is 12. The highest value is 21.
+ The mode, median and mean of following:
 
-2. The median of five number is 16; their mode is 6; their range is 18; their mean is 14. The numbers are 6, 6, 16, 18, 24.
+  a) 7, 11, 8, 11, 9
+  Mode: 11, Median: 9, Mean: 9.2 
 
-3. In mathematics test, six students scored 42, 76, 64, 51, 48, 59 and, in science test, they scored 86, 24, 41, 93, 65, 17. The range of their marks for each test is 34, 76.
+  b) 9, 5, 13, 9 
+  Mode: 9, Median: 9, Mean: 9
 
-4. One day last winter, I measured the temperature every four hours. My readings, in °C were -6, -3, 0, 3, 1, -2. Ihe range is 9 degree.
+  c) 5, 1, 8, 5, 3 
+  Mode: 5, Median: 5, Mean: 4.4
 
-5. Find the range of following sets of numbers.
+  d) 6, -1, -4, 0, 5 
+  Mode: none, Median: 0, Mean: 1.2
 
- a) 3, 6, 7, 5, 9. Ans: 6
+2. The number of children in 8 families was 2, 1, 3, 4, 2, 3, 2, 1.  mode: 2, median: 2 and mean: 2.25.
+
+3. A cyclist travels for 2 hours at 20 mph and then for 1 hour at 15 mph. His average speed for the whole jorney is 18.3 mph.
+
+4. The mean of 17, 37, 29, x, 15 and 19 is 24. The value of 'x' is 27.
+
+5. The age of my three children are 8 years 9 months, 5 years 4 months and 2 years 7 months. Their mean age is 5 years 6 months.
+
+6. The mode of five numbers is 3, the median is 15 and the mean is 12.  numbers are:  3, 3, 15, 18, 21
+
+7. The mean height of the 15 boys in a class is 162cm and the mean height of the 10 girls is 152cm. The mean height of the 25 pupils is 158 cm.
+
  
- b) 25, 16, 43, 28, 32, 17. Ans: 27
- 
- c) 4, -5, 0, -2, 1, -3. Ans: 9
- 
- 
-
-
-
-
 
 
 
