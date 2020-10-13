@@ -1,38 +1,49 @@
 +++
-title = "English-Answers 07/10/2020"
-date = 2020-10-08 
-url = "/posts/english_question_of_the_day_answer_2020_10_07"
-categories = [ "answers of the day", "english-answers" ]
-tags = ["answers", "english-answers", "eng-answers"]
+title = "English-Answers 08/10/2020"
+date = 2020-10-09 
+url = "/posts/english_question_of_the_day_answer_2020_10_08"
+categories = [ "question of the day", "english-answer" ]
+tags = ["question", "english", "eng-answer"]
 +++
 
 
-## Question of the day_answers.7-10-2020
-# Adjective to Adverb
+## Question of the day _answers.08-10-2020
+#  Irregular Verbs
 
-**Match your answers, adjective to adverb.** 
+**Infiinitive form to simple past tense and past participle.** e.g. *choose*- chose - chosen
 
-1. beautiful - beautifully(add-ly)
+1. swim- swam - swum
 
-2. wonderful - wonderfully(add-ly)
+2. rise - rose - risen
 
-3. pretty - prettily(change y to i, then add-ly)
+3. lead - led - led
 
-4. busy - busily(change y to i, then add-ly)
+4. lie - lay - lain
 
-5. comfortable - comfortably(change e to y)
+5. cut - cut - cut
 
-6. reputable - reputably(change e to y)
+6. grow - grew - grown
 
-7. enthusiastic - enthusiastically(add ally)
+7. mean - meant - meant
 
-8. ecstatic - ecstatically(add ally)
+8. win - won - won
 
-9. friendly - in friendly way(use an adverbial phrase)
+9. build - built - built
 
-10. daily - every day(use an adverbial phrase)
+10. be - was/were - been
+
+11. cost - cost - cost
+
+12. have - had - had
+
+13. spin - spun - spun
+
+14. let - let - let
+
+15. shake - shook - shaken
 
 
+  
 
 
 
