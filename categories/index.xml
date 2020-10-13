@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>english</title>
-      <link>https://chalktalk.uk/categories/english/</link>
+      <title>english-answer</title>
+      <link>https://chalktalk.uk/categories/english-answer/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chalktalk.uk/categories/english/</guid>
+      <guid>https://chalktalk.uk/categories/english-answer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>mathematics</title>
-      <link>https://chalktalk.uk/categories/mathematics/</link>
+      <title>mathematics-answer</title>
+      <link>https://chalktalk.uk/categories/mathematics-answer/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chalktalk.uk/categories/mathematics/</guid>
+      <guid>https://chalktalk.uk/categories/mathematics-answer/</guid>
       <description></description>
     </item>
     
@@ -35,6 +35,42 @@
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/categories/question-of-the-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english</title>
+      <link>https://chalktalk.uk/categories/english/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english-answers</title>
+      <link>https://chalktalk.uk/categories/english-answers/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/categories/english-answers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mathematics</title>
+      <link>https://chalktalk.uk/categories/mathematics/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/categories/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mathematics-answers</title>
+      <link>https://chalktalk.uk/categories/mathematics-answers/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/categories/mathematics-answers/</guid>
       <description></description>
     </item>
     

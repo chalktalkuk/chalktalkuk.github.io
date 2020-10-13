@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>eng</title>
-      <link>https://chalktalk.uk/tags/eng/</link>
+      <title>eng-answer</title>
+      <link>https://chalktalk.uk/tags/eng-answer/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chalktalk.uk/tags/eng/</guid>
+      <guid>https://chalktalk.uk/tags/eng-answer/</guid>
       <description></description>
     </item>
     
@@ -39,11 +39,11 @@
     </item>
     
     <item>
-      <title>maths</title>
-      <link>https://chalktalk.uk/tags/maths/</link>
+      <title>maths-answer</title>
+      <link>https://chalktalk.uk/tags/maths-answer/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chalktalk.uk/tags/maths/</guid>
+      <guid>https://chalktalk.uk/tags/maths-answer/</guid>
       <description></description>
     </item>
     
@@ -53,6 +53,33 @@
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/tags/question/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eng</title>
+      <link>https://chalktalk.uk/tags/eng/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/tags/eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eng-answers</title>
+      <link>https://chalktalk.uk/tags/eng-answers/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/tags/eng-answers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maths</title>
+      <link>https://chalktalk.uk/tags/maths/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/tags/maths/</guid>
       <description></description>
     </item>
     
