@@ -2,8 +2,8 @@
 title = "English-Answers 08/10/2020"
 date = 2020-10-08 
 url = "/posts/english_question_of_the_day_2020_10_08"
-categories = [ "question of the day", "english" ]
-tags = ["question", "english", "eng"]
+categories = [ "question of the day", "english-answers" ]
+tags = ["question", "english", "eng-answers"]
 +++
 
 

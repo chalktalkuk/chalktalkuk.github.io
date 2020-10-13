@@ -3,7 +3,7 @@ title = "Maths-answers 08/10/2020"
 description = "Question of the day_answers 08 OCT 2020"
 date = "2020-10-08"
 url = "/posts/maths_question_of_the_day_2020_10_08"
-categories = [ "question of the day", "mathematics" ]
+categories = [ "question of the day", "mathematics-answers" ]
 tags = ["question", "mathematics", "maths-answers"]
 +++
 
