@@ -1,7 +1,7 @@
 +++
 title = "Mock test Answer 04/10/2020"
 date = 2020-10-08 
-url = "/posts/mock_test_2020_10_04"
+url = "/posts/mock_test_answer_2020_10_04"
 categories = [ "test of the week", "mocktest" ]
 tags = ["test", "mocktest", "mock"]
 +++
