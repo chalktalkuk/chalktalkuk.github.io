@@ -1,7 +1,7 @@
 +++
 title = "English-Answers 09/10/2020"
 date = 2020-10-09 
-url = "/posts/english_question_of_the_day_2020_10_09"
+url = "/posts/english_question_of_the_day_answer_2020_10_09"
 categories = [ "question of the day", "english-answer" ]
 tags = ["question", "english", "eng-answer"]
 +++
