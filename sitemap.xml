@@ -4,13 +4,60 @@
   
   <url>
     <loc>https://chalktalk.uk/categories/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chalktalk.uk/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/posts/maths_question_of_the_day_2020_10_21/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/post/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/tags/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/categories/mathematics/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/tags/mathematics/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/tags/maths/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/tags/question/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chalktalk.uk/categories/question-of-the-day/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -22,18 +69,6 @@
   <url>
     <loc>https://chalktalk.uk/posts/maths_question_of_the_day_answer_2020_10_08/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chalktalk.uk/post/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chalktalk.uk/tags/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -55,12 +90,6 @@
   </url>
   
   <url>
-    <loc>https://chalktalk.uk/tags/mathematics/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://chalktalk.uk/categories/mathematics-answer/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -68,18 +97,6 @@
   
   <url>
     <loc>https://chalktalk.uk/tags/maths-answer/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chalktalk.uk/tags/question/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chalktalk.uk/categories/question-of-the-day/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -152,19 +169,7 @@
   </url>
   
   <url>
-    <loc>https://chalktalk.uk/categories/mathematics/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://chalktalk.uk/categories/mathematics-answers/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chalktalk.uk/tags/maths/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

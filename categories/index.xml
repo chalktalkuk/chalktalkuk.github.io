@@ -6,10 +6,28 @@
     <description>Recent content in Categories on ChalkTalk.UK | ChalkTalk UK Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chalktalk.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mathematics</title>
+      <link>https://chalktalk.uk/categories/mathematics/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/categories/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>question of the day</title>
+      <link>https://chalktalk.uk/categories/question-of-the-day/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chalktalk.uk/categories/question-of-the-day/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>english-answer</title>
@@ -26,15 +44,6 @@
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/categories/mathematics-answer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>question of the day</title>
-      <link>https://chalktalk.uk/categories/question-of-the-day/</link>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chalktalk.uk/categories/question-of-the-day/</guid>
       <description></description>
     </item>
     
@@ -62,15 +71,6 @@
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chalktalk.uk/categories/english-answers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mathematics</title>
-      <link>https://chalktalk.uk/categories/mathematics/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chalktalk.uk/categories/mathematics/</guid>
       <description></description>
     </item>
     
